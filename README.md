@@ -1,1 +1,2 @@
 # exercises
+Adding test2
